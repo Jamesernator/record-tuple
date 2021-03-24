@@ -1,5 +1,5 @@
 import WeakMapWithKeyCount from "./WeakMapWithKeyCount.js";
-import assert from "./assert.js";
+import assert from "./assert/assert.js";
 
 type PrimitiveOnly<T> = T extends object ? never : T;
 type ObjectOnly<T> = T extends object ? T : never;
