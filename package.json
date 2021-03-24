@@ -1,0 +1,7 @@
+{
+    "name": "record-tuple",
+    "type": "module",
+    "author": "James \"The Jamesernator\" Browning <contact@jamesernator.io>",
+    "license": "ISC",
+    "private": true
+}
